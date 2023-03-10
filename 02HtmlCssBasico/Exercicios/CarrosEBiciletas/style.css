@@ -1,0 +1,50 @@
+*{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+  text-align: center;
+}
+
+h2{
+  color: #fff;
+}
+
+p{
+  color: #b2b2b2;
+}
+
+.container{
+  background-color: #111;
+  padding: 20px;
+  height: auto;
+  width: 700px;
+  margin-left: auto;
+  margin-right: auto; 
+}
+
+.preco{
+  color: #febe01;
+}
+
+.ano{
+  color: #febe01;
+}
+
+.quilometros{
+  color: #febe01;
+}
+
+a{
+  color: #332200;
+}
+
+.botao{
+  display: inline-block;
+  text-decoration: none;
+  background-color: #febe01;
+  border: solid 0px ;
+  border-radius: 4px;
+  padding: 8px;
+
+}
