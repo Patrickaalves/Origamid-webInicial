@@ -24,3 +24,21 @@ p a {
 .classeCss{
   color: rgb(237, 192, 255);
 }
+
+/* Aula 210 */
+
+h1{
+  background-color: blueviolet;
+}
+
+/* Aula 211 */
+
+div{
+  background-color: #aaa;
+  width: auto;
+  width: 140px;
+  height: 80px;
+  padding: 20px;
+  border: 10px solid #111;
+  margin: 30px;
+}
